@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<query>
+
+<status>enabled</status>
+
+<ipBringerEnabled>true</ipBringerEnabled>
+
+<ipTrackerEnabled>true</ipTrackerEnabled>
+
+<SpamerEnabled>true</SpamerEnabled>
+
+<EmailTrackerEnabled>true</EmailTrackerEnabled>
+
+<getDCIPEnabled>true</getDCIPEnabled>
+
+<version>v.8.4.2.0 maxeman Tools by maxeman.</version>
+
+<extra>No other Information.</extra>
+
+</query>
