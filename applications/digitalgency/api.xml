@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <query>
-<status>disabled</status>
-<useNormalActivation>enabled</useNormalActivation>
+<status>enabled</status>
+<useNormalActivation>disabled</useNormalActivation>
 <secondaryCode>x0y955.565.gencysec</secondaryCode>
 </query>
