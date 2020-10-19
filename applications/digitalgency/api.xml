@@ -2,7 +2,7 @@
 
 <query>
 <status>enabled</status>
-<useNormalActivation>disabled</useNormalActivation>
+<useNormalActivation>enabled</useNormalActivation>
 <secondaryCode>x0y955.565.gencysec</secondaryCode>
 <newestSongURL>https://open.spotify.com/artist/06RIPSP6xftxleb2uP5cBP?si=bYXFU-wNRIivAgSGdslhMg</newestSongURL>
 </query>
